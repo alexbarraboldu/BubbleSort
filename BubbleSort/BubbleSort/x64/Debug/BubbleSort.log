@@ -1,0 +1,4 @@
+﻿  BubbleSort.cpp
+C:\Users\alexb\source\repos\BubbleSort\BubbleSort\BubbleSort.cpp(4,26): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\array(192,1): error C2118: subíndice negativo
+C:\Users\alexb\source\repos\BubbleSort\BubbleSort\BubbleSort.cpp(6): message : Vea la referencia a la creación de una instancia de clase plantilla "std::array<short,18446744073709526080>" que se está compilando
